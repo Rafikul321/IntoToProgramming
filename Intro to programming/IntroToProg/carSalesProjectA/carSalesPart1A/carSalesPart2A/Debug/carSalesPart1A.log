@@ -1,0 +1,13 @@
+﻿  main.c
+c:\users\rafikul\documents\introtoprog\carsalesprojecta\carsalespart1a\carsalespart2a\main.c(56): warning C4244: '=': conversion from 'float' to 'unsigned short', possible loss of data
+c:\users\rafikul\documents\introtoprog\carsalesprojecta\carsalespart1a\carsalespart2a\main.c(80): warning C4047: 'function': 'float *' differs in levels of indirection from 'char **'
+c:\users\rafikul\documents\introtoprog\carsalesprojecta\carsalespart1a\carsalespart2a\main.c(80): warning C4024: 'swapUnsignedShort': different types for formal and actual parameter 1
+c:\users\rafikul\documents\introtoprog\carsalesprojecta\carsalespart1a\carsalespart2a\main.c(80): warning C4024: 'swapUnsignedShort': different types for formal and actual parameter 2
+c:\users\rafikul\documents\introtoprog\carsalesprojecta\carsalespart1a\carsalespart2a\main.c(180): warning C4129: 'd': unrecognized character escape sequence
+c:\users\rafikul\documents\introtoprog\carsalesprojecta\carsalespart1a\carsalespart2a\main.c(217): warning C4129: 'd': unrecognized character escape sequence
+c:\users\rafikul\documents\introtoprog\carsalesprojecta\carsalespart1a\carsalespart2a\main.c(262): warning C4033: 'menu_buyCars' must return a value
+c:\users\rafikul\documents\introtoprog\carsalesprojecta\carsalespart1a\carsalespart2a\main.c(279): warning C4033: 'menu_buyCars' must return a value
+c:\users\rafikul\documents\introtoprog\carsalesprojecta\carsalespart1a\carsalespart2a\main.c(291): warning C4244: '=': conversion from 'int' to 'float', possible loss of data
+c:\users\rafikul\documents\introtoprog\carsalesprojecta\carsalespart1a\carsalespart2a\main.c(298): warning C4033: 'menu_buyCars' must return a value
+c:\users\rafikul\documents\introtoprog\carsalesprojecta\carsalespart1a\carsalespart2a\main.c(301): warning C4716: 'menu_buyCars': must return a value
+  carSalesPart1A.vcxproj -> C:\Users\Rafikul\Documents\IntroToProg\carSalesProjectA\carSalesPart1A\carSalesPart2A\Debug\carSalesPart1A.exe

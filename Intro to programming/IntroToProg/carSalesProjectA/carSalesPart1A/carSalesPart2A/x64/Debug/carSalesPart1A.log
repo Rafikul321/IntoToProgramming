@@ -1,0 +1,14 @@
+﻿  main.c
+c:\users\rafikul\documents\introtoprog\carsalesprojecta\carsalespart1a\carsalespart1a\main.c(163): warning C4129: 'R': unrecognized character escape sequence
+c:\users\rafikul\documents\introtoprog\carsalesprojecta\carsalespart1a\carsalespart1a\main.c(163): warning C4129: 'D': unrecognized character escape sequence
+c:\users\rafikul\documents\introtoprog\carsalesprojecta\carsalespart1a\carsalespart1a\main.c(163): warning C4129: 'I': unrecognized character escape sequence
+c:\users\rafikul\documents\introtoprog\carsalesprojecta\carsalespart1a\carsalespart1a\main.c(163): warning C4129: 'c': unrecognized character escape sequence
+c:\users\rafikul\documents\introtoprog\carsalesprojecta\carsalespart1a\carsalespart1a\main.c(220): warning C4129: 'R': unrecognized character escape sequence
+c:\users\rafikul\documents\introtoprog\carsalesprojecta\carsalespart1a\carsalespart1a\main.c(220): warning C4129: 'D': unrecognized character escape sequence
+c:\users\rafikul\documents\introtoprog\carsalesprojecta\carsalespart1a\carsalespart1a\main.c(220): warning C4129: 'I': unrecognized character escape sequence
+c:\users\rafikul\documents\introtoprog\carsalesprojecta\carsalespart1a\carsalespart1a\main.c(220): warning C4129: 'c': unrecognized character escape sequence
+c:\users\rafikul\documents\introtoprog\carsalesprojecta\carsalespart1a\carsalespart1a\main.c(300): warning C4033: 'menu_buyCars' must return a value
+c:\users\rafikul\documents\introtoprog\carsalesprojecta\carsalespart1a\carsalespart1a\main.c(313): warning C4244: '=': conversion from 'int' to 'float', possible loss of data
+c:\users\rafikul\documents\introtoprog\carsalesprojecta\carsalespart1a\carsalespart1a\main.c(319): warning C4033: 'menu_buyCars' must return a value
+c:\users\rafikul\documents\introtoprog\carsalesprojecta\carsalespart1a\carsalespart1a\main.c(322): warning C4716: 'menu_buyCars': must return a value
+  carSalesPart1A.vcxproj -> C:\Users\Rafikul\Documents\IntroToProg\carSalesProjectA\carSalesPart1A\x64\Debug\carSalesPart1A.exe
